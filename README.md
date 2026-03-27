@@ -7,8 +7,7 @@
 ## Задание 1 — Консольное приложение «Фибоначчи»
 
 **Источник:** [Microsoft Learn — Use Visual Studio Debugger](https://learn.microsoft.com/ru-ru/training/modules/dotnet-debug-visual-studio/4-use-visual-studio-debugger)  
-**Ветвь Git:** `feature/fibonacci-debug`  
-**Соразработчик:** TGAksenova
+**Ветвь Git:** `master`  
 
 ### Описание задачи
 
@@ -29,14 +28,14 @@
 
 ### XML-комментарии
 
-Добавлены XML-комментарии к методам `Main` и `Fibonacci` (см. файл `fibonacci/Program.cs`).
+Добавлены XML-комментарии к методам `Main` и `Fibonacci` (см. файл `fibonacci_Program.cs`).
 
 ---
 
 ## Задание 2 — Консольное приложение «Галактики»
 
 **Источник:** [Microsoft Learn — Debugging for Absolute Beginners](https://learn.microsoft.com/ru-ru/visualstudio/debugger/debugging-absolute-beginners?view=vs-2022&source=recommendations&tabs=csharp)  
-**Ветвь Git:** `feature/galaxies-debug`
+**Ветвь Git:** `galaxies-debug`
 
 ### Описание задачи
 
@@ -57,14 +56,14 @@
 
 ### XML-комментарии
 
-Добавлены XML-комментарии к классу `Galaxy`, методам `FindGalaxies` и `Main` (см. файл `galaxies/Program.cs`).
+Добавлены XML-комментарии к классу `Galaxy`, методам `FindGalaxies` и `Main` (см. файл `galaxies_Program.cs`).
 
 ---
 
 ## Задание 3 — Консольное приложение «Буквы»
 
 **Источник:** [Microsoft Learn — Tutorial: Debug C# code](https://learn.microsoft.com/ru-ru/visualstudio/get-started/csharp/tutorial-debugger?view=vs-2022#create-a-project)  
-**Ветвь Git:** `feature/letters-debug`
+**Ветвь Git:** `letters-debug`
 
 ### Описание задачи
 
