@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4 d17.14
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{3553DB65-B6EF-4A4F-AF23-F3F5498C852E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{8455AA7A-926B-4D8A-83BF-2039D50F47D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{E558565A-5C90-4491-A540-A1133437486A}"
 EndProject
@@ -19,10 +17,6 @@ Global
 		{3553DB65-B6EF-4A4F-AF23-F3F5498C852E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3553DB65-B6EF-4A4F-AF23-F3F5498C852E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3553DB65-B6EF-4A4F-AF23-F3F5498C852E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8455AA7A-926B-4D8A-83BF-2039D50F47D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8455AA7A-926B-4D8A-83BF-2039D50F47D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8455AA7A-926B-4D8A-83BF-2039D50F47D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8455AA7A-926B-4D8A-83BF-2039D50F47D1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E558565A-5C90-4491-A540-A1133437486A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E558565A-5C90-4491-A540-A1133437486A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E558565A-5C90-4491-A540-A1133437486A}.Release|Any CPU.ActiveCfg = Release|Any CPU
